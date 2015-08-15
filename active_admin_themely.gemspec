@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Custom CSS and Bootstrap CSS for Active Admin}
   spec.description   = %q{Tenji's Custom CSS and Bootstrap CSS for Active Admin}
-  spec.homepage      = "http://tembot.me/aa_themely"
+  spec.homepage      = "https://github.com/tenji240/active_admin_themely"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
